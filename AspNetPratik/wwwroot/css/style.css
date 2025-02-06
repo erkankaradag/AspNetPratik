@@ -1,0 +1,24 @@
+﻿
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+
+
+/*using Microsoft.AspNetCore.Mvc;
+
+namespace AspNetPratik.wwwroot.css
+{
+    public class style : Controller
+    {
+        public IActionResult Index()
+        {
+            return View();
+        }
+    }
+}
+*/
